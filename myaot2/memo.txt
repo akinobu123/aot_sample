@@ -1,0 +1,87 @@
+tf_compileのインストールで参考にしたサイト
+https://qiita.com/qiita_kuru/items/833f9f0bfb1c3d72796f
+https://www.tensorflow.org/xla/tfcompile?hl=ja
+https://github.com/rongjiecomputer/tensorflow-xla-aot-windows/blob/master/README.md
+https://developers.googleblog.com/2017/03/xla-tensorflow-compiled.html
+
+Bazel site
+https://docs.bazel.build/versions/master/install-ubuntu.html
+
+EIGENの使い方のサイト
+https://myenigma.hatenablog.com/entry/2015/05/29/220404
+
+
+■■■　１．bazelのインストール
+　※ubuntu18.04にて
+
+sudo apt-get install openjdk-8-jdk
+sudo apt install curl gnupg
+echo "deb [arch=amd64] http://storage.googleapis.com/bazel-apt stable jdk1.8" | sudo tee /etc/apt/sources.list.d/bazel.list
+curl https://bazel.build/bazel-release.pub.gpg | sudo apt-key add -
+sudo apt-get update
+sudo apt-get install bazel-3.1.0
+　※後の作業(tfcompileビルド)でbazelのバージョンが違うと言われるのでヴァージョン指定でinstall
+bazel version
+
+
+■■■　２．Protocol Buffersのインストール
+
+wget https://github.com/google/protobuf/releases/download/v3.2.0/protoc-3.2.0-linux-x86_64.zip
+unzip protoc-3.2.0-linux-x86_64.zip -d protoc
+sudo mv protoc/bin/* /usr/bin
+sudo mv protoc/include/* /usr/include
+protoc --version
+
+
+■■■　３．tfcompileのビルド(2-3時間)
+
+cd /path/to/workspace
+git clone --depth=1 --single-branch https://github.com/tensorflow/tensorflow
+cd /path/to/workspace/tensorflow/tensorflow
+./configure
+　※基本 No
+　※Do you wish to build TensorFlow with XLA JIT support? [y/N]　で　y
+　※Please specify optimization flags to use during compilation when bazel option "--config=opt" is specified [Default is /arch:AVX]:　で　/arch:AVX2
+bazel build --config=opt --verbose_failures //tensorflow/compiler/aot:tfcompile
+cd /path/to/tensorflow
+./bazel-bin/tensorflow/compiler/aot/tfcompile --help
+
+
+■■■　以下、サイトの手順通りに　■■■
+https://qiita.com/qiita_kuru/items/833f9f0bfb1c3d72796f
+
+
+■■■　４．モデルpbファイルのコンパイル
+　※V1.xからV2.xに変換したpbはエラーが出る。V1.xで作ったpbならOK
+　※workspace/tensorflow/以下に置かないとコンパイルできない
+
+vi xxx/BUILD
+vi xxx/xxx.comfig.pbtxt
+　※bazelでコンパイル。設定ファイル↑を作っておく
+cd /path/to/workspace/tensorflow
+bazel build //xxx:test_graph
+
+
+■■■　４．eigen3の配置
+cd /path/to/xxx
+git clone https://gitlab.com/libeigen/eigen.git
+　
+
+■■■　５．abslの配置
+cd /path/to/xxx
+git clone https://github.com/abseil/abseil-cpp.git
+
+■■■　６．必要なオブジェクトの収集
+　※下記フォルダからオブジェクトファイルをコピー
+/path/to/workspace/tensorflow/bazel-bin/tensorflow/compiler/tf2xla/_objs/xla_compiled_cpu_function
+/path/to/workspace/tensorflow/bazel-bin/tensorflow/compiler/xla/_objs/cpu_function_runtime
+/path/to/workspace/tensorflow/bazel-bin/tensorflow/compiler/xla/_objs/executable_run_options
+/path/to/workspace/tensorflow/bazel-bin/tensorflow/compiler/aot/tfcompile
+/path/to/workspace/tensorflow/bazel-bin/tf_compile/xxx_tf_compile_function.o
+/path/to/workspace/tensorflow/bazel-bin/tensorflow/compiler/xla/service/cpu/_objs/cpu_runtime
+
+■■■　５．呼び出し部分の実装
+
+g++ -I/path/to/workspace -I/path/to/xxx/eigen -I/path/to/xxx/abseil-cpp -L./ -lpthread -pthread xla_compiled_cpu_function.o cpu_function_runtime.o executable_run_options.o mnist_test_tfcompile_function.o cpu_runtime.o -lmnist_test -o app app.cpp
+
+g++ -I../ -I../../../dev/eigen -I../../../dev/abseil-cpp 

@@ -1,0 +1,72 @@
+#include "tensorflow/compiler/tf2xla/xla_compiled_cpu_function.h"
+	#include "tensorflow/compiler/xla/cpu_function_runtime.h"
+		#include "tensorflow/core/platform/types.h"
+	#include "tensorflow/compiler/xla/executable_run_options.h"
+		#include "tensorflow/compiler/xla/types.h"
+			#include <Eigen/Core>
+				???
+			#include "third_party/eigen3/Eigen/Core"
+				#include "Eigen/Core"
+					???
+			#include "tensorflow/core/framework/numeric_types.h"
+				#include "third_party/eigen3/unsupported/Eigen/CXX11/Tensor"
+					#include "unsupported/Eigen/CXX11/Tensor"
+				#include "third_party/eigen3/unsupported/Eigen/CXX11/FixedPoint"
+					#include <Eigen/Core>
+					#include "src/FixedPoint/FixedPointTypes.h"
+					#include "src/FixedPoint/PacketMathAVX512.h"
+					#include "src/FixedPoint/TypeCastingAVX512.h"
+					#include "src/FixedPoint/PacketMathAVX2.h"
+					#include "src/FixedPoint/MatMatProductAVX2.h"
+					#include "src/FixedPoint/TypeCastingAVX2.h"
+					#include "src/FixedPoint/PacketMathAVX.h"
+					#include "src/FixedPoint/MatMatProductNEON.h"
+					#include "src/FixedPoint/MatMatProduct.h"
+					#include "src/FixedPoint/MatVecProduct.h"
+				#include "tensorflow/core/platform/types.h"
+			#include "tensorflow/core/platform/types.h"
+	#include "tensorflow/core/platform/types.h"
+#include "tensorflow/core/platform/types.h"
+	#include "tensorflow/core/platform/bfloat16.h"
+		#include "tensorflow/core/platform/byte_order.h"
+		#include "third_party/eigen3/Eigen/Core"
+	#include "tensorflow/core/platform/platform.h"
+		#include "TargetConditionals.h"
+			???
+	#include "tensorflow/core/platform/tstring.h"
+		#include "tensorflow/core/platform/cord.h"
+			#include "tensorflow/core/platform/platform.h"
+			#include "tensorflow/core/platform/google/cord.h"
+			#include "tensorflow/core/platform/default/cord.h"
+		#include "tensorflow/core/platform/ctstring.h"
+			#include "tensorflow/core/platform/ctstring_internal.h"
+		#include "absl/strings/string_view.h"
+			???
+	#include "tensorflow/core/platform/google/integral_types.h"
+	#include "tensorflow/core/platform/default/integral_types.h"
+
+
+tensorflow/compiler/tf2xla/xla_compiled_cpu_function.h
+tensorflow/compiler/xla/cpu_function_runtime.h
+tensorflow/compiler/xla/executable_run_options.h
+tensorflow/compiler/xla/types.h
+tensorflow/core/platform/types.h
+tensorflow/core/platform/bfloat16.h
+tensorflow/core/platform/platform.h
+tensorflow/core/platform/ctstring.h
+tensorflow/core/platform/ctstring_internal.h
+tensorflow/core/platform/tstring.h
+tensorflow/core/platform/byte_order.h
+tensorflow/core/platform/cord.h
+tensorflow/core/platform/google/integral_types.h
+tensorflow/core/platform/google/cord.h
+tensorflow/core/platform/default/integral_types.h
+tensorflow/core/platform/default/cord.h
+tensorflow/core/framework/numeric_types.h
+third_party/eigen3/Eigen/Core
+third_party/eigen3/unsupported/Eigen/CXX11/Tensor
+third_party/eigen3/unsupported/Eigen/CXX11/FixedPoint
+third_party/eigen3/unsupported/Eigen/CXX11/FixedPoint/*
+
+TargetConditionals.h
+absl/strings/string_view.h

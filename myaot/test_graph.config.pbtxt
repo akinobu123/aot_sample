@@ -1,0 +1,24 @@
+feed {
+  id {
+    node_name: "input_1"
+  }
+  shape {
+    dim {
+      size: 1
+    }
+    dim {
+      size: 224
+    }
+    dim {
+      size: 224
+    }
+    dim {
+      size: 3
+    }
+  }
+}
+fetch {
+  id {
+    node_name: "probs/Softmax"
+  }
+}

@@ -1,0 +1,1000 @@
+ 1092  conda info -e
+ 1093  source activate tf2
+ 1094  ls
+ 1095  python
+ 1096  pip install pandas
+ 1097  python
+ 1098  exit
+ 1099  source activate tf
+ 1100  conda info -e
+ 1101  source activate tf2
+ 1102  python
+ 1103  exit
+ 1104  source /home/akinobu/anaconda3/bin/activate
+ 1105  conda activate base
+ 1106  /home/akinobu/anaconda3/bin/python /home/akinobu/OneDrive/dev/myAI/sunaba.py
+ 1107  /home/akinobu/.conda/envs/tf2/bin/python /home/akinobu/OneDrive/dev/myAI/sunaba.py
+ 1108  onedrive
+ 1109  onedrive -d
+ 1110  onedrive -D
+ 1111  onedrive -h
+ 1112  onedrive -d
+ 1113  source activate tf2
+ 1114  /home/akinobu/.conda/envs/tf2/bin/python /home/akinobu/OneDrive/dev/myAI/sunaba.py
+ 1115  conda install --name tf2 pylint
+ 1116  source activate tf2
+ 1117  /home/akinobu/.conda/envs/tf2/bin/python /home/akinobu/OneDrive/dev/myAI/sunaba.py
+ 1118  /home/akinobu/.conda/envs/tf2/bin/python /home/akinobu/OneDrive/dev/myAI/sunaba2.py
+ 1119  python
+ 1120  source activate tf2
+ 1121  activate
+ 1122  source anaconda3/bin/activate tf2
+ 1123  import matplotlib.pyplot as plt
+ 1124  /home/akinobu/.conda/envs/tf2/bin/python /home/akinobu/OneDrive/dev/myAI/sunaba2.py
+ 1125  import matplotlib.pyplot as plt
+ 1126  /home/akinobu/anaconda3/bin/python /home/akinobu/OneDrive/dev/myAI/sunaba2.py
+ 1127  /home/akinobu/.conda/envs/tf/bin/python /home/akinobu/OneDrive/dev/myAI/sunaba2.py
+ 1128  python
+ 1129  source deactivate
+ 1130  source anaconda3/bin/deactivate 
+ 1131  /home/akinobu/.conda/envs/tf/bin/python /home/akinobu/OneDrive/dev/myAI/sunaba2.py
+ 1132  /home/akinobu/anaconda3/bin/python /home/akinobu/OneDrive/dev/myAI/sunaba2.py
+ 1133  source activate tf2
+ 1134  /home/akinobu/.conda/envs/tf2/bin/python /home/akinobu/OneDrive/dev/myAI/sunaba2.py
+ 1135  /home/akinobu/.conda/envs/tf2/bin/python /home/akinobu/OneDrive/dev/myAI/sunaba.py
+ 1136  source activate tf2
+ 1137  /home/akinobu/.conda/envs/tf2/bin/python /home/akinobu/OneDrive/dev/myAI/sunaba.py
+ 1138  source activate tf2
+ 1139  pip install matplotlib
+ 1140  pip install PIL
+ 1141  pip install pillow
+ 1142  pip install pylint
+ 1143  python
+ 1144  which activate
+ 1145  python
+ 1146  pwd
+ 1147  cd OneDrive/
+ 1148  cd ドキュメント/
+ 1149  dir
+ 1150  touch memo.txt
+ 1151  ascii-clock
+ 1152  exit
+ 1153  cd OneDrive/dev
+ 1154  cd make_char_img/
+ 1155  ls
+ 1156  conda info -e
+ 1157  source activate tf2
+ 1158  python make_char_img.py 
+ 1159  python
+ 1160  python make_char_img.py 
+ 1161  ls
+ 1162  cd /home
+ 1163  ls
+ 1164  cd akinobu/
+ 1165  ls
+ 1166  cd Pictures/
+ 1167  ls
+ 1168  touch sample
+ 1169  pwd
+ 1170  cd
+ 1171  cd OneDrive/dev
+ 1172  cd make_char_img/
+ 1173  python make_char_img.py 
+ 1174  cd ..
+ 1175  ls
+ 1176  cd classify_char/
+ 1177  ls
+ 1178  python train.py
+ 1179  cd ../make_char_img/
+ 1180  python make_char_img.py 
+ 1181  cd ..
+ 1182  ls
+ 1183  cd classify_char/
+ 1184  ls
+ 1185  python train.py 
+ 1186  cd Downloads/
+ 1187  ls
+ 1188  d .
+ 1189  cd ..
+ 1190  ls
+ 1191  cd Downloads/
+ 1192  ls
+ 1193  sudo apt install ./zoom_amd64.deb 
+ 1194  sudo gdebi zoom_amd64.deb 
+ 1195  ls
+ 1196  cd OneDrive/
+ 1197  ls
+ 1198  cd dev
+ 1199  ls
+ 1200  cd que_c_py/
+ 1201  ls
+ 1202  cd ..
+ 1203  LS
+ 1204  ls
+ 1205  onedrive
+ 1206  onedrive -d
+ 1207  onedrive -D
+ 1208  onedrive -h
+ 1209  onedrive -d
+ 1210  onedrive --download
+ 1211  onedrive --download --help
+ 1212  onedrive --syncdir
+ 1213  ls
+ 1214  onedrive -d
+ 1215  ls -la
+ 1216  cd img
+ 1217  ls
+ 1218  ls -la
+ 1219  cd ..
+ 1220  ls
+ 1221  ls -la
+ 1222  cd tf2_study/
+ 1223  ls
+ 1224  ls -la
+ 1225  ls
+ 1226  cd ..
+ 1227  ls
+ 1228  ls -la
+ 1229  cd classify_char/
+ 1230  ls
+ 1231  ls -la
+ 1232  cd ..
+ 1233  ls
+ 1234  ls -la
+ 1235  lw
+ 1236  ls
+ 1237  ls -la
+ 1238  cd ../..
+ 1239  ls
+ 1240  cd onedirve
+ 1241  cd onedrive
+ 1242  ls
+ 1243  ls -la
+ 1244  git pull
+ 1245  ls
+ 1246  ./install-sh 
+ 1247  ls -la
+ 1248  ./install-sh 
+ 1249  onedrive
+ 1250  ps ax | grep onedrive
+ 1251  ps ax | more
+ 1252  onedrive-d
+ 1253  onedrive restart
+ 1254  sudo make uninstall
+ 1255  ls
+ 1256  vi Makefile.in 
+ 1257  make
+ 1258  vi install-sh 
+ 1259  cd ../OneDrive/
+ 1260  onedrive --synchronize
+ 1261  onedrive -
+ 1262  onedrive --synchronize
+ 1263  cd ../onedrive
+ 1264  ./install-sh 
+ 1265  sudo chmod +x install.sh
+ 1266  ls
+ 1267  sudo chmod +x install-sh 
+ 1268  ./install-sh 
+ 1269  sudo make install
+ 1270  ./configure
+ 1271  sudo apt install libcurl4-openssl-dev libsqlite3-dev
+ 1272  curl -fsS https://dlang.org/install.sh | bash -s dmd
+ 1273  ls
+ 1274  cd ..
+ 1275  ls
+ 1276  source ~/dlang/dmd-2.093.1/activate
+ 1277  cd onedrive
+ 1278  ls
+ 1279  make
+ 1280  ./configure 
+ 1281  make
+ 1282  sudo make install
+ 1283  onedrive
+ 1284  ls -la
+ 1285  cd config
+ 1286  vi config
+ 1287  onedrive
+ 1288  onedrive --synchronize
+ 1289  cd ../OneDrive/
+ 1290  ls
+ 1291  ls -la
+ 1292  cd dev
+ 1293  ls
+ 1294  ls -la
+ 1295  cd ..
+ 1296  ls
+ 1297  ls -la
+ 1298  cd ../onedrive
+ 1299  ls
+ 1300  make uninstall
+ 1301  sudo make uninstall
+ 1302  ls
+ 1303  ls -la
+ 1304  vi config
+ 1305  sudo make install
+ 1306  onedrive
+ 1307  onedrive --synchronize
+ 1308  onedirve --monitor
+ 1309  onedrive --monitor
+ 1310  sudo deactivate
+ 1311  source deactivate
+ 1312  source ~/dlang/deactivatre
+ 1313  source ~/dlang/deactivate
+ 1314  exit
+ 1315  onedrive --synchronize
+ 1316  cd onedrive
+ 1317  cd ..
+ 1318  ls
+ 1319  ls -la
+ 1320  cd .config/
+ 1321  ls
+ 1322  ls -la
+ 1323  cd onedrive/
+ 1324  ls
+ 1325  ls -la
+ 1326  vi config 
+ 1327  onedrive --synchronize
+ 1328  vi config
+ 1329  onedrive
+ 1330  ls
+ 1331  ls -la
+ 1332  vi .config.backup 
+ 1333  vi .config.hash 
+ 1334  vi items.sqlite3 
+ 1335  vi refresh_token 
+ 1336  mkdir ~/backup
+ 1337  mv items.sqlite3 ~/backup/
+ 1338  mv refresh_token ~/backup/
+ 1339  mv .config.* ~/backup/
+ 1340  ls
+ 1341  ls -la
+ 1342  mv items.sqlite3 ~/backup/
+ 1343  ls
+ 1344  cd ../..
+ 1345  cd OneDrive/
+ 1346  onedrive
+ 1347  ls
+ 1348  ls -la
+ 1349  onedrive --synchronize
+ 1350  cd ..
+ 1351  ls
+ 1352  onedrive -d
+ 1353  onedrive -h
+ 1354  onedrive --display-config
+ 1355  onedrive --synchronize
+ 1356  cd .config
+ 1357  cd onedrive/
+ 1358  vi config 
+ 1359  onedrive --synchronize
+ 1360  onedrive --resync
+ 1361  onedrive --synchronize
+ 1362  ls
+ 1363  ls -la
+ 1364  vi resume_upload 
+ 1365  vi refresh_token 
+ 1366  v items.sqlite3-wal 
+ 1367  vi items.sqlite3-wal 
+ 1368  cat config
+ 1369  onedrive -h
+ 1370  onedrive --download-only
+ 1371  onedrive --monitor
+ 1372  onedrive --download-only
+ 1373  onedrive -h
+ 1374  ls
+ 1375  ls -la
+ 1376  mv .config ~/backup/
+ 1377  mv .config.* ~/backup/
+ 1378  mv items.sqlite3* ~/backup/
+ 1379  mv refresh_token ~/backup/
+ 1380  mv resume_upload ~/backup/
+ 1381  ls
+ 1382  cat config 
+ 1383  onedrive
+ 1384  onedrive --synchronize
+ 1385  cd ../..
+ 1386  cd OneDrive/
+ 1387  ls
+ 1388  cd dev
+ 1389  ls
+ 1390  ls -la
+ 1391  ls
+ 1392  ls ^la
+ 1393  ls -la
+ 1394  ls
+ 1395  ls -la
+ 1396  onedrive --synchronize
+ 1397  exit
+ 1398  cd OneDrive/
+ 1399  ls
+ 1400  ls -la
+ 1401  cd ドキュメント
+ 1402  ls
+ 1403  ls -la
+ 1404  df
+ 1405  ls
+ 1406  df
+ 1407  cd ..
+ 1408  ls
+ 1409  cd dev
+ 1410  ls
+ 1411  rm -r *
+ 1412  rm -rf *
+ 1413  ls
+ 1414  cd ..
+ 1415  ls
+ 1416  cd ..
+ 1417  ls
+ 1418  cd dev
+ 1419  ls
+ 1420  ls -la
+ 1421  df
+ 1422  exit
+ 1423  ls
+ 1424  cd OneDrive/dev
+ 1425  ls
+ 1426  cd call_python_para/
+ 1427  ls
+ 1428  ./a.out
+ 1429  ls -la
+ 1430  chmod a+x a.out
+ 1431  ./a.out
+ 1432  conda info -e
+ 1433  source activate tf2
+ 1434  pip list
+ 1435  pip install posix_ipc
+ 1436  pip list
+ 1437  ls
+ 1438  ./a.out
+ 1439  pip install psutil
+ 1440  ./a.out
+ 1441  vi task_broker.py 
+ 1442  ps ax | grep python
+ 1443  ./a.out
+ 1444  ps ax | grep python
+ 1445  vi task_broker.py 
+ 1446  ./a.out
+ 1447  ps ax | grep python
+ 1448  ./a.out
+ 1449  ps ax | grep python
+ 1450  kill -9 8846
+ 1451  vi task_broker.py 
+ 1452  vi aaa_worker.py 
+ 1453  ./a.out
+ 1454  vi task_broker.py 
+ 1455  ./a.out
+ 1456  ps ax | grep python
+ 1457  kill -9 8877
+ 1458  ps ax | grep python
+ 1459  vi task_broker.py 
+ 1460  vi aaa_worker.py 
+ 1461  vi task_broker.py 
+ 1462  vi aaa_worker.py 
+ 1463  vi task_broker.py 
+ 1464  ./a.out
+ 1465  pip list | grep ipc
+ 1466  vi task_broker.py 
+ 1467  ./a.out
+ 1468  vi task_broker.py 
+ 1469  ./a.out
+ 1470  vi task_broker.py 
+ 1471  ./a.out
+ 1472  ps ax | grep python
+ 1473  kill -9 9359
+ 1474  ps ax | grep python
+ 1475  ./a.out
+ 1476  ls
+ 1477  vi q_recv.py 
+ 1478  vi q_send.py 
+ 1479  vi task_a.bat 
+ 1480  rm task_a.bat 
+ 1481  ls
+ 1482  vi test.py 
+ 1483  rm test.py
+ 1484  ls
+ 1485  rm q_recv.py 
+ 1486  rm q_send.py 
+ 1487  ls
+ 1488  vi task_broker.py 
+ 1489  ./a.out
+ 1490  python task_broker.py --mode quit --task_name aaa
+ 1491  ps ax | grep python
+ 1492  ./a.out
+ 1493  ps ax | grep python
+ 1494  ./a.out
+ 1495  ps ax | grep python
+ 1496  ./a.out
+ 1497  ps ax | grep python
+ 1498  python task_broker.py --mode quit --task_name aaa
+ 1499  ps ax | grep python
+ 1500  vi executor.c 
+ 1501  vi task_broker.py 
+ 1502  ./a.out
+ 1503  ps ax | grep python
+ 1504  vi aaa_worker.py 
+ 1505  ps ax | grep python
+ 1506  python task_broker.py --mode quit --task_name aaa
+ 1507  ps ax | grep python
+ 1508  ./a.out
+ 1509  ps ax | grep python
+ 1510  vi aaa_worker.py 
+ 1511  ./a.out
+ 1512  vi aaa_worker.py 
+ 1513  ./a.out
+ 1514  vi aaa_worker.py 
+ 1515  python task_broker.py --mode quit --task_name aaa
+ 1516  ./a.out
+ 1517  python task_broker.py --mode quit --task_name aaa
+ 1518  vi aaa_worker.py 
+ 1519  ./a.out
+ 1520  python task_broker.py --mode quit --task_name aaa
+ 1521  vi aaa_worker.py 
+ 1522  ./a.out
+ 1523  python task_broker.py --mode quit --task_name aaa
+ 1524  ./a.out
+ 1525  python task_broker.py --mode quit --task_name aaa
+ 1526  python task_broker.py --mode exec_serial --task_name aaa --task_param test
+ 1527  python task_broker.py --mode exec --task_name aaa --task_param test
+ 1528  ps ax | grep python
+ 1529  python task_broker.py --mode quit --task_name aaa
+ 1530  ps ax | grep python
+ 1531  ./a.out
+ 1532  ps ax | grep python
+ 1533  python task_broker.py --mode quit --task_name aaa
+ 1534  python task_broker.py --mode exec --task_name aaa --task_param test_test
+ 1535  python task_broker.py --mode exec --task_name aaa --task_param aaaaaaaabbbbbbbbb
+ 1536  vi task_broker.py 
+ 1537  python task_broker.py --mode exec --task_name aaa --task_param aaaaaaaabbbbbbbbb
+ 1538  python task_broker.py --mode exec_serial --task_name aaa --task_param aaaaaaaabbbbbbbbb
+ 1539  python task_broker.py --mode quit --task_name aaa
+ 1540  ps ax | grep python
+ 1541  python task_broker.py --mode quit --task_name aaa
+ 1542  kill -9 10132
+ 1543  kill -9 10133
+ 1544  kill -9 10373
+ 1545  kill -9 10374
+ 1546  kill -9 10376
+ 1547  kill -9 10377
+ 1548  kill -9 10392
+ 1549  kill -9 10393
+ 1550  kill -9 10395
+ 1551  kill -9 10397
+ 1552  kill -9 10679
+ 1553  ps ax | grep python
+ 1554  python task_broker.py --mode exec --task_name aaa --task_param aaaaaaaabbbbbbbbb
+ 1555  ps ax | grep python
+ 1556  python task_broker.py --mode exec --task_name aaa --task_param aaaaaaaabbbbbbbbb
+ 1557  python task_broker.py --mode exec_serial --task_name aaa --task_param aaaaaaaabbbbbbbbb
+ 1558  ps ax | grep python
+ 1559  python task_broker.py --mode quit --task_name aaa
+ 1560  ps ax | grep python
+ 1561  python task_broker.py --mode quit --task_name aaa
+ 1562  ps ax | grep python
+ 1563  kill -9 10735
+ 1564  kill -9 10736
+ 1565  kill -9 10738
+ 1566  kill -9 10739
+ 1567  ps ax | grep python
+ 1568  python task_broker.py --mode exec --task_name aaa --task_param aaaaaaaabbbbbbbbb
+ 1569  ps ax | grep python
+ 1570  python task_broker.py --mode quit --task_name aaa
+ 1571  ps ax | grep python
+ 1572  kill -9 10754
+ 1573  kill -9 10755
+ 1574  ps ax | grep python
+ 1575  python task_broker.py --mode exec --task_name aaa --task_param aaaaaaaabbbbbbbbb
+ 1576  ps ax | grep python
+ 1577  python task_broker.py --mode quit --task_name aaa
+ 1578  ps ax | grep python
+ 1579  python task_broker.py --mode quit --task_name aaa
+ 1580  ps ax | grep python
+ 1581  python task_broker.py --mode quit --task_name aaa
+ 1582  ps ax | grep python
+ 1583  python task_broker.py --mode exec --task_name aaa --task_param aaaaaaaabbbbbbbbb
+ 1584  ps ax | grep python
+ 1585  python task_broker.py --mode exec --task_name aaa --task_param aaaaaaaabbbbbbbbb
+ 1586  ps ax | grep python
+ 1587  python task_broker.py --mode quit --task_name aaa
+ 1588  ps ax | grep python
+ 1589  python task_broker.py --mode exec --task_name aaa --task_param aaaaaaaabbbbbbbbb
+ 1590  ps ax | grep python
+ 1591  python task_broker.py --mode quit --task_name aaa
+ 1592  ps ax | grep python
+ 1593  python task_broker.py --mode exec --task_name aaa --task_param aaaaaaaabbbbbbbbb
+ 1594  ps ax | grep python
+ 1595  python task_broker.py --mode quit --task_name aaa
+ 1596  ps ax | grep python
+ 1597  python task_broker.py --mode quit --task_name aaa
+ 1598  python task_broker.py --mode exec --task_name aaa --task_param aaaaaaaabbbbbbbbb
+ 1599  ps ax | grep python
+ 1600  python task_broker.py --mode quit --task_name aaa
+ 1601  ps ax | grep python
+ 1602  python task_broker.py --mode exec --task_name aaa --task_param aaaaaaaabbbbbbbbb
+ 1603  ps ax | grep python
+ 1604  python task_broker.py --mode quit --task_name aaa
+ 1605  ps ax | grep python
+ 1606  python task_broker.py --mode exec --task_name aaa --task_param aaaaaaaabbbbbbbbb
+ 1607  ps ax | grep python
+ 1608  python task_broker.py --mode exec --task_name aaa --task_param aaaaaaaabbbbbbbbb
+ 1609  python task_broker.py --mode exec --task_name aaa --task_param dddddddddddeeeeeeeeee
+ 1610  ps ax | grep python
+ 1611  python task_broker.py --mode quit --task_name aaa
+ 1612  ps ax | grep python
+ 1613  python task_broker.py --mode exec --task_name aaa --task_param dddddddddddeeeeeeeeee
+ 1614  ps ax | grep python
+ 1615  python task_broker.py --mode exec --task_name aaa --task_param dddddddddddeeeeeeeeee
+ 1616  ps ax | grep python
+ 1617  python task_broker.py --mode quit --task_name aaa
+ 1618  python task_broker.py --mode exec --task_name aaa --task_param dddddddddddeeeeeeeeee
+ 1619  ps ax | grep python
+ 1620  python task_broker.py --mode quit --task_name aaa
+ 1621  python task_broker.py --mode exec --task_name aaa --task_param dddddddddddeeeeeeeeee
+ 1622  ps ax | grep python
+ 1623  python task_broker.py --mode quit --task_name aaa
+ 1624  ps ax | grep python
+ 1625  python task_broker.py --mode exec --task_name aaa --task_param dddddddddddeeeeeeeeee
+ 1626  ps ax | grep python
+ 1627  python task_broker.py --mode quit --task_name aaa
+ 1628  ps ax | grep python
+ 1629  python task_broker.py --mode exec --task_name aaa --task_param dddddddddddeeeeeeeeee
+ 1630  ps ax | grep python
+ 1631  python task_broker.py --mode quit --task_name aaa
+ 1632  ps ax | grep python
+ 1633  python task_broker.py --mode quit --task_name aaa
+ 1634  ps ax | grep python
+ 1635  python task_broker.py --mode exec --task_name aaa --task_param dddddddddddeeeeeeeeee
+ 1636  python task_broker.py --mode quit --task_name aaa
+ 1637  ps ax | grep python
+ 1638  python task_broker.py --mode exec --task_name aaa --task_param dddddddddddeeeeeeeeee
+ 1639  ps ax | grep python
+ 1640  python task_broker.py --mode quit --task_name aaa
+ 1641  python task_broker.py --mode exec --task_name aaa --task_param dddddddddddeeeeeeeeee
+ 1642  ps ax | grep python
+ 1643  python task_broker.py --mode exec --task_name aaa --task_param dddddddddddeeeeeeeeee
+ 1644  ps ax | grep python
+ 1645  python task_broker.py --mode quit --task_name aaa
+ 1646  ps ax | grep python
+ 1647  python task_broker.py --mode exec --task_name aaa --task_param dddddddddddeeeeeeeeee
+ 1648  ps ax | grep python
+ 1649  python task_broker.py --mode exec --task_name aaa --task_param dddddddddddeeeeeeeeee
+ 1650  ps ax | grep python
+ 1651  python task_broker.py --mode quit --task_name aaa
+ 1652  ps ax | grep python
+ 1653  python task_broker.py --mode exec --task_name aaa --task_param dddddddddddeeeeeeeeee
+ 1654  ps ax | grep python
+ 1655  python task_broker.py --mode exec --task_name aaa --task_param dddddddddddeeeeeeeeee
+ 1656  ps ax | grep python
+ 1657  python task_broker.py --mode quit --task_name aaa
+ 1658  ps ax | grep python
+ 1659  python task_broker.py --mode exec --task_name aaa --task_param dddddddddddeeeeeeeeee
+ 1660  ps ax | grep python
+ 1661  python task_broker.py --mode quit --task_name aaa
+ 1662  ps ax | grep python
+ 1663  python task_broker.py --mode exec --task_name aaa --task_param dddddddddddeeeeeeeeee
+ 1664  ps ax | grep python
+ 1665  python task_broker.py --mode quit --task_name aaa
+ 1666  ls
+ 1667  python task_broker.py --mode exec --task_name draw_contour --task_param apple.jpg,apple_out.png
+ 1668  ps ax | grep python
+ 1669  python task_broker.py --mode exec --task_name draw_contour --task_param apple.jpg,apple_out.png
+ 1670  rm apple_out.png 
+ 1671  python task_broker.py --mode exec --task_name draw_contour --task_param apple.jpg,apple_out.png
+ 1672  python task_broker.py --mode exec --task_name draw_contour --task_param apple.jpg,apple_out.jpg
+ 1673  python task_broker.py --mode quit --task_name draw_contour --task_param apple.jpg,apple_out.jpg
+ 1674  ps ax | grep python
+ 1675  python task_broker.py --mode exec --task_name draw_contour --task_param apple.jpg,apple_out.jpg
+ 1676  python task_broker.py --mode quit --task_name draw_contour --task_param apple.jpg,apple_out.jpg
+ 1677  python task_broker.py --mode exec --task_name draw_contour --task_param apple.jpg,apple_out.jpg
+ 1678  python task_broker.py --mode quit --task_name draw_contour --task_param apple.jpg,apple_out.jpg
+ 1679  python task_broker.py --mode quit --task_name draw_contour --task_param apple.jpg,apple_out.png
+ 1680  python task_broker.py --mode exec --task_name draw_contour --task_param apple.jpg,apple_out.png
+ 1681  python task_broker.py --mode quit --task_name draw_contour --task_param apple.jpg,apple_out.png
+ 1682  python task_broker.py --mode exec --task_name draw_contour --task_param apple.jpg,apple_out.png
+ 1683  python task_broker.py --mode quit --task_name draw_contour --task_param apple.jpg,apple_out.png
+ 1684  python task_broker.py --mode exec --task_name draw_contour --task_param apple.jpg,apple_out.png
+ 1685  python task_broker.py --mode quit --task_name draw_contour --task_param apple.jpg,apple_out.png
+ 1686  python task_broker.py --mode exec --task_name draw_contour --task_param apple.jpg,apple_out.png
+ 1687  python task_broker.py --mode quit --task_name draw_contour --task_param apple.jpg,apple_out.png
+ 1688  python task_broker.py --mode exec --task_name draw_contour --task_param apple.jpg,apple_out.png
+ 1689  python task_broker.py --mode quit --task_name draw_contour --task_param apple.jpg,apple_out.png
+ 1690  python task_broker.py --mode exec --task_name draw_contour --task_param apple.jpg,apple_out.png
+ 1691  python task_broker.py --mode quit --task_name draw_contour --task_param apple.jpg,apple_out.png
+ 1692  python task_broker.py --mode exec --task_name draw_contour --task_param apple.jpg,apple_out.png
+ 1693  ls
+ 1694  vi task_broker.py 
+ 1695  python task_broker.py --mode exec --task_name draw_contour --task_param apple.jpg,apple_out.jpg
+ 1696  python task_broker.py --mode quit --task_name draw_contour --task_param apple.jpg,apple_out.png
+ 1697  python task_broker.py --mode exec --task_name draw_contour --task_param apple.jpg,apple_out.jpg
+ 1698  python task_broker.py --mode quit --task_name draw_contour --task_param apple.jpg,apple_out.png
+ 1699  ps ax | grep python
+ 1700  python task_broker.py --mode exec --task_name draw_contour --task_param apple.jpg,apple_out.jpg
+ 1701  python task_broker.py --mode quit --task_name draw_contour --task_param apple.jpg,apple_out.jpg
+ 1702  ps ax | grep python
+ 1703  python task_broker.py --mode exec_para --task_name draw_contour --task_param apple.jpg,apple_out.jpg
+ 1704  ps ax | grep python
+ 1705  python task_broker.py --mode exec_para --task_name draw_contour --task_param apple.jpg,apple_out.jpg
+ 1706  cp ../img/Horse-running.jpg .
+ 1707  python task_broker.py --mode exec_para --task_name draw_contour --task_param Horse-running.jpg,Horse-running_out.jpg
+ 1708  ls /dev/mqueue/
+ 1709  cd OneDrive/dev/
+ 1710  ls
+ 1711  cd call_python_para/
+ 1712  ls
+ 1713  vi aaa_worker.py 
+ 1714  cp aaa_worker.py contour_extraction_worker.py
+ 1715  vi contour_extraction_worker.py 
+ 1716  mv contour_extraction_worker.py draw_contour_worker.py
+ 1717  ls
+ 1718  vi draw_contour_worker.py 
+ 1719  vi aaa_worker.py 
+ 1720  vi task_broker_common.py 
+ 1721  vi aaa_worker.py 
+ 1722  vi draw_contour_worker.py 
+ 1723  ls
+ 1724  cp ../img/apple.jpg .
+ 1725  ls
+ 1726  vi draw_contour_worker.py 
+ 1727  cd OneDrive/dev
+ 1728  ls
+ 1729  cd call_python_para/
+ 1730  ls
+ 1731  conda info -e
+ 1732  source activate tf2
+ 1733  ls
+ 1734  python task_broker.py --mode exec_para --task_name draw_contour --task_param apple.jpg,apple_out.jpg
+ 1735  ls /dev/mqueue/
+ 1736  ps ax | grep python
+ 1737  python unlink_queue.py 
+ 1738  ls /dev/mqueue/
+ 1739  python unlink_queue.py 
+ 1740  ls
+ 1741  ls -la
+ 1742  onedrive -h
+ 1743  ls
+ 1744  onedrive --synchronize
+ 1745  ls
+ 1746  python unlink_queue.py 
+ 1747  onedrive --synchronize
+ 1748  python unlink_queue.py 
+ 1749  onedrive --synchronize
+ 1750  python unlink_queue.py 
+ 1751  onedrive --synchronize
+ 1752  python unlink_queue.py 
+ 1753  ls /dev/mqueue/
+ 1754  onedrive --synchronize
+ 1755  python unlink_queue.py 
+ 1756  ls /dev/mqueue/
+ 1757  onedrive --synchronize
+ 1758  python unlink_queue.py 
+ 1759  ls /dev/mqueue/
+ 1760  onedrive --synchronize
+ 1761  python task_broker.py --mode exec_para --task_name draw_contour --task_param apple.jpg,apple_out.jpg
+ 1762  ps ax | grep
+ 1763  ps ax | grep python
+ 1764  onedrive --synchronize
+ 1765  ls /dev/mqueue/
+ 1766  python task_broker.py --mode exec_para --task_name draw_contour --task_param apple.jpg,apple_out.jpg
+ 1767  onedrive --synchronize
+ 1768  python task_broker.py --mode exec_para --task_name draw_contour --task_param apple.jpg,apple_out.jpg
+ 1769  python task_broker.py --mode quit --task_name draw_contour --task_param apple.jpg,apple_out.jpg
+ 1770  onedrive --synchronize
+ 1771  python task_broker.py --mode quit --task_name draw_contour --task_param apple.jpg,apple_out.jpg
+ 1772  /dev/mqueue
+ 1773  /dev/mqueue/
+ 1774  ls /dev/mqueue/
+ 1775  ps ax | grep python
+ 1776  python task_broker.py --mode quit --task_name draw_contour --task_param apple.jpg,apple_out.jpg
+ 1777  ps ax | grep python
+ 1778  kill -9 13002
+ 1779  ps ax | grep python
+ 1780  python task_broker.py --mode exec_para --task_name draw_contour --task_param apple.jpg,apple_out.jpg
+ 1781  ps ax | grep python
+ 1782  python task_broker.py --mode quit --task_name draw_contour --task_param apple.jpg,apple_out.jpg
+ 1783  ps ax | grep python
+ 1784  ls /dev/mqueue/
+ 1785  onedrive --synchronize
+ 1786  python task_broker.py --mode exec_para --task_name draw_contour --task_param apple.jpg,apple_out.jpg
+ 1787  ls
+ 1788  onedrive --synchronize
+ 1789  ps ax | grep python
+ 1790  python task_broker.py --mode exec_para --task_name draw_contour --task_param Horse-running.jpg,Horse-running_out.jpg
+ 1791  onedrive --synchronize
+ 1792  python task_broker.py --mode quit --task_name draw_contour --task_param apple.jpg,apple_out.jpg
+ 1793  ps ax | grep python
+ 1794  python task_broker.py --mode exec --task_name draw_contour --task_param apple.jpg,apple_out.jpg
+ 1795  python task_broker.py --mode exec_para --task_name draw_contour --task_param apple.jpg,apple_out.jpg
+ 1796  onedrive --synchronize
+ 1797  ls
+ 1798  mkdir img
+ 1799  mv Horse-running.jpg img/
+ 1800  mv apple img/
+ 1801  mv apple.jpg img/
+ 1802  ls
+ 1803  ps ax | grep python
+ 1804  python task_broker.py --mode exec_para --task_name draw_contour --task_param img/apple.jpg,img/apple_out.jpg
+ 1805  ls
+ 1806  ls img
+ 1807  ps ax | grep python
+ 1808  python task_broker.py --mode quit --task_name draw_contour
+ 1809  ps ax | grep python
+ 1810  ls /dev/mqueue/
+ 1811  exit
+ 1812  ifconfig
+ 1813  apt install openssh-server
+ 1814  sudo apt install openssh-server
+ 1815  sudo systemctl status ssh
+ 1816  sudo apt-get install ssh
+ 1817  systemctl start sshd
+ 1818  ifconfig
+ 1819  cd ..
+ 1820  ls
+ 1821  onedrive --synchronize
+ 1822  la
+ 1823  cd dev
+ 1824  ls
+ 1825  cd call_python_para/
+ 1826  ls
+ 1827  ls -la
+ 1828  diff task_broker.py task_broker-7LER2KF.py 
+ 1829  diff task_broker_common.py task_broker_common-7LER2KF.py 
+ 1830  cd OneDrive/dev
+ 1831  ls
+ 1832  cd tf_study
+ 1833  ls
+ 1834  onedrive -h
+ 1835  onedrive --downloadonly
+ 1836  onedrive --download-only
+ 1837  conda info -e
+ 1838  source activate tf2
+ 1839  ls
+ 1840  pip list
+ 1841  source deactivate
+ 1842  conda info -e
+ 1843  conda remove -n tf2 --all
+ 1844  sudo apt update
+ 1845  conda remove -n tf --all
+ 1846  conda remove -n ch --all
+ 1847  conda info -e
+ 1848  sudo apt update
+ 1849  apt list --upgradable
+ 1850  conda create -n tf1 python=3.6
+ 1851  conda create -n tf2 python=3.6
+ 1852  source activate tf1
+ 1853  pip install -U pip
+ 1854  pip list
+ 1855  pip install tensorflow==1.15
+ 1856  pip list
+ 1857  pip install opencv-python
+ 1858  pip list
+ 1859  source deactivate
+ 1860  source activate
+ 1861  source deactivate
+ 1862  source activate tf2
+ 1863  pip list
+ 1864  pip install -U pip
+ 1865  pip list
+ 1866  pip install tensorflow
+ 1867  pip install opencv-python
+ 1868  pip list
+ 1869  cd ..
+ 1870  ls
+ 1871  sudo dpkg-reconfigure keyboard-configuration
+ 1872  gnome-session-properties
+ 1873  setxkbmap jp
+ 1874  source activate tf1
+ 1875  cd OneDrive/dev
+ 1876  ls
+ 1877  cd tf_study/
+ 1878  ls
+ 1879  python convert_pb2sm.py 
+ 1880  source deactivate
+ 1881  source activate tf2
+ 1882  python mnist_load_v2.py 
+ 1883  python convert_pb2sm.py 
+ 1884  source deactivate
+ 1885  source tf1
+ 1886  source activate tf1
+ 1887  python convert_pb2sm.py 
+ 1888  source deactivate
+ 1889  source activate tf2
+ 1890  python mnist_load_v2.py 
+ 1891  bazel
+ 1892  sudo apt install curl gnupg
+ 1893  apt update
+ 1894  sudo apt update
+ 1895  sudo apt install curl gnupg
+ 1896  curl -fsSL https'//bazel.build/bazel-relase.pub.gpg | gpg --dearmor > bazel.gpg
+ 1897  curl -fsSL https://bazel.build/bazel-relase.pub.gpg | gpg --dearmor > bazel.gpg
+ 1898  curl -fsSL https://bazel.build/bazel-release.pub.gpg | gpg --dearmor > bazel.gpg
+ 1899  sudo mv bazel.gpg /etc/apt/trusted.gpg.d/
+ 1900  echo "deb [arch=amd64] https://storage.googleapis.com/bazel-apt stable jdk1.8" | sudo tee /etc/apt/sources.list.d/bazel.list
+ 1901  sudo apt update && sudo apt install bazel
+ 1902  bazel
+ 1903  sudo apt install g++ unzip zip
+ 1904  pwd
+ 1905  cd download
+ 1906  history
+ 1907  setxkbmap jp
+ 1908  cd ダウンロード
+ 1909  ls
+ 1910  chmod +x bazel-3.5.0-installer-linux-x86_64.sh 
+ 1911  ./bazel-3.5.0-installer-linux-x86_64.sh --user
+ 1912  echo $PATH
+ 1913  echo $HOME
+ 1914  bazel
+ 1915  cd
+ 1916  bazel build --config=//tensorflow/compiler/aot:tfcompile
+ 1917  bazel build --config=opt --config=//tensorflow/compiler/aot:tfcompile
+ 1918  bazel version
+ 1919  apt install protoc
+ 1920  sudo apt install protoc
+ 1921  $ wget https://github.com/google/protobuf/releases/download/v3.2.0/protoc-3.2.0-linux-x86_64.zip
+ 1922  wget https://github.com/google/protobuf/releases/download/v3.2.0/protoc-3.2.0-linux-x86_64.zip
+ 1923  ls
+ 1924  unzip protoc-3.2.0-linux-x86_64.zip 
+ 1925  ls
+ 1926  mkdir protoc
+ 1927  mv protoc-3.2.0-linux-x86_64.zip protoc/
+ 1928  mv include protoc/
+ 1929  mv bin protoc/
+ 1930  mv readme.txt protoc/
+ 1931  ls
+ 1932  cd protoc/
+ 1933  ls
+ 1934  cd ..
+ 1935  ls protoc/include/
+ 1936  ls
+ 1937  mv protoc/bin/* /usr/bin
+ 1938  ls protoc/bin
+ 1939  cd protoc/bin
+ 1940  ls
+ 1941  cd pro
+ 1942  pwd
+ 1943  ls
+ 1944  ls -la
+ 1945  cd ..
+ 1946  ls
+ 1947  cd include/
+ 1948  ls
+ 1949  cd google/
+ 1950  ls
+ 1951  cd protobuf/
+ 1952  ls
+ 1953  ls -la
+ 1954  cd compiler/
+ 1955  ls
+ 1956  cd ..
+ 1957  ls
+ 1958  protoc --version
+ 1959  cd
+ 1960  ls
+ 1961  mkdir workspace
+ 1962  cd workspace/
+ 1963  git clone --depth=1 --single-branch https://github.com/tensorflow/tensorflow
+ 1964  df
+ 1965  cd tensorflow/tensorflow/
+ 1966  cd
+ 1967  ls
+ 1968  cd protoc/
+ 1969  ls
+ 1970  mv protoc-3.2.0-linux-x86_64.zip ../
+ 1971  cd ..
+ 1972  ls
+ 1973  rm -r protoc
+ 1974  unzip protoc-3.2.0-linux-x86_64.zip -d protoc
+ 1975  ls
+ 1976  ls protoc/bin/
+ 1977  sudo mv protoc/bin/* /usr/bin
+ 1978  sudo mv protoc/include/* /usr/include
+ 1979  protoc --version
+ 1980  ./configure
+ 1981  cd workspace/tensorflow/tensorflow/
+ 1982  ./configure
+ 1983  ls
+ 1984  ls -la
+ 1985  ./configure
+ 1986  ./workspace.bzl 
+ 1987  cd
+ 1988  bazel //tensorflow/compiler/aot:tfcompile
+ 1989  bazel build //tensorflow/compiler/aot:tfcompile
+ 1990  bazel binary //tensorflow/compiler/aot:tfcompile
+ 1991  pwd
+ 1992  cd workspace/
+ 1993  bazel binary //tensorflow/tensorflow/compiler/aot:tfcompile
+ 1994  bazel tc_cc_binary //tensorflow/tensorflow/compiler/aot:tfcompile
+ 1995  bazel
+ 1996  bazel build //tensorflow/tensorflow/compiler/aot:tfcompile
+ 1997  ls tensorflow/tensorflow/compiler/aot/
+ 1998  protoc --version
+ 1999  ls
+ 2000  cd workspace/
+ 2001  ls
+ 2002  cd tensorflow/tensorflow/
+ 2003  ls
+ 2004  cd compiler/aot/
+ 2005  ls
+ 2006  cd ../../
+ 2007  cd ../
+ 2008  ls
+ 2009  cd tensorflow/
+ 2010  ls
+ 2011  bazel build --config=opt --verbose_failures //tensorflow/compiler/aot:tfcompile
+ 2012  bazel --version
+ 2013  bazel
+ 2014  sudo apt update && sudo apt install bazel
+ 2015  bazel
+ 2016  bazel version
+ 2017  echo $PATH
+ 2018  which bazel
+ 2019  sudo apt-get install openjdk-8-jdk
+ 2020  bazel
+ 2021  vi /home/akinobu/workspace/tensorflow/.bazelversion 
+ 2022  bazel version
+ 2023  bazel
+ 2024  vi /home/akinobu/workspace/tensorflow/.bazelversion 
+ 2025  bazel build --config=opt --verbose_failures //tensorflow/compiler/aot:tfcompile
+ 2026  vi /home/akinobu/workspace/tensorflow/.bazelversion 
+ 2027  install bazel-3.1.0
+ 2028  sudo apt install bazel-3.1.0
+ 2029  bazel version
+ 2030  python configure.py
+ 2031  ls
+ 2032  cd ..
+ 2033  ls
+ 2034  cd ..
+ 2035  ls
+ 2036  rm -r tensorflow/
+ 2037  rm -rf tensorflow/
+ 2038  ls
+ 2039  git clone --depth=1 --single-branch https://github.com/tensorflow
+ 2040  git clone --depth=1 --single-branch https://github.com/tensorflow.git
+ 2041  git clone --depth=1 --single-branch https://github.com/tensorflow/tensorflow
+ 2042  ls
+ 2043  cd tensorflow/
+ 2044  ls
+ 2045  ls -la
+ 2046  ./configure
+ 2047  conda info -e
+ 2048  ls /home/akinobu/anaconda3/envs/tf2
+ 2049  ls /home/akinobu/anaconda3/envs/
+ 2050  ls /home/akinobu/anaconda3/
+ 2051  ls /home/akinobu/anaconda3/bin/
+ 2052  ls /home/akinobu/anaconda3/bin/ | grep python
+ 2053  source activate tf2
+ 2054  ./configure 
+ 2055  bazel build --config=opt --verbose_failures //tensorflow/compiler/aot:tfcompile
+ 2056  ./configure 
+ 2057  bazel build --config=opt --verbose_failures //tensorflow/compiler/aot:tfcompile
+ 2058  ./bazel-bin/tensorflow/compiler/aot/tfcompile --help
+ 2059  cd ../../OneDrive/dev
+ 2060  cd tf_compile/
+ 2061  cd ../../../workspace/tensorflow/
+ 2062  bazel build //tf_compile:mnist_test
+ 2063  cd ../../OneDrive/dev/tf_compile/
+ 2064  cd ..
+ 2065  bazel build //tf_compile:mnist_test
+ 2066  cd ../../workspace/tensorflow/
+ 2067  ls
+ 2068  bazel build //tf_compile:mnist_test
+ 2069  bazel build //tf_compile:mnist_test --verbose_failures
+ 2070  ls
+ 2071  bazel build //tf_compile:mnist_test --verbose_failures
+ 2072  ls bazel-bin/
+ 2073  ls bazel-bin/tf_compile/
+ 2074  cd bazel-bin/tf_compile/
+ 2075  ls
+ 2076  ls -la
+ 2077  rm *
+ 2078  ls
+ 2079  cd ../..
+ 2080  ls
+ 2081  bazel build //tf_compile:mnist_test --verbose_failures
+ 2082  cd bazel-bin/tf_compile/
+ 2083  ls
+ 2084  ls -la
+ 2085  history
+ 2086  cd..
+ 2087  cd ..
+ 2088  ls
+ 2089  cd tf_compile/
+ 2090  ls
+ 2091  history > history.txt

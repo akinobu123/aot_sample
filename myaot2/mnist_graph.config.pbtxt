@@ -1,0 +1,18 @@
+feed {
+	id { node_name: "x" }
+	shape {
+		dim { size: 1 }
+		dim { size: 784 }
+	}
+}
+feed {
+	id { node_name: "y_" }
+	shape {
+		dim { size: 1 }
+		dim { size: 10 }
+	}
+}
+fetch {
+	id { node_name: "accuracy" }
+}
+

@@ -17,9 +17,9 @@ https://myenigma.hatenablog.com/entry/2015/05/29/220404
 sudo apt-get install openjdk-8-jdk
 sudo apt install curl gnupg
 echo "deb [arch=amd64] http://storage.googleapis.com/bazel-apt stable jdk1.8" | sudo tee /etc/apt/sources.list.d/bazel.list
-curl https://bazel.build/bazel-release.pub.gpg | sudo apt-key add -
+sudo curl https://bazel.build/bazel-release.pub.gpg | sudo apt-key add -
 sudo apt-get update
-sudo apt-get install bazel-3.1.0
+sudo apt-get install bazel
 　※後の作業(tfcompileビルド)でbazelのバージョンが違うと言われるのでヴァージョン指定でinstall
 bazel version
 
@@ -37,11 +37,10 @@ protoc --version
 
 cd /path/to/workspace
 git clone --depth=1 --single-branch https://github.com/tensorflow/tensorflow
-cd /path/to/workspace/tensorflow/tensorflow
+cd /path/to/workspace/tensorflow
 ./configure
 　※基本 No
-　※Do you wish to build TensorFlow with XLA JIT support? [y/N]　で　y
-　※Please specify optimization flags to use during compilation when bazel option "--config=opt" is specified [Default is /arch:AVX]:　で　/arch:AVX2
+　※.... "--config=opt" is specified [Default is xxxxx]:　で　-mavx
 bazel build --config=opt --verbose_failures //tensorflow/compiler/aot:tfcompile
 cd /path/to/tensorflow
 ./bazel-bin/tensorflow/compiler/aot/tfcompile --help
@@ -55,12 +54,31 @@ https://qiita.com/qiita_kuru/items/833f9f0bfb1c3d72796f
 　※V1.xからV2.xに変換したpbはエラーが出る。V1.xで作ったpbならOK
 　※workspace/tensorflow/以下に置かないとコンパイルできない
 
-vi xxx/BUILD
-vi xxx/xxx.comfig.pbtxt
-　※bazelでコンパイル。設定ファイル↑を作っておく
+mkdir (my_proj)
+mv (my_graph).pb (my_proj)/
+vi (my_proj)/BUILD                       <- 記入(my_graph)
+vi (my_proj)/(my_graph).comfig.pbtxt     <- 入出力の定義
 cd /path/to/workspace/tensorflow
-bazel build //xxx:test_graph
+bazel build --config=opt //(my_proj):(my_graph)
+ls bazel-genfiles/(my_proj)/
 
+
+■■■　５．実行モジュールの作成
+
+cd /path/to/workspace/tensorflow/(my_proj)
+vi BUILD                                 <- 追記(my_code)
+vi (my_code).cpp
+cd ..
+bazel build --config=opt --verbose_failures ://(my_proj):(my_code)
+ls ./bazel-bin/(my_proj)/
+
+
+
+
+
+
+
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
 
 ■■■　４．eigen3の配置
 cd /path/to/xxx
